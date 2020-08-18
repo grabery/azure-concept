@@ -162,6 +162,7 @@ Affixes can refer to different aspects that describe the particular resources. S
 | Azure Application Gateway                     | Security     | AAGA   |        |
 | Azure Automation Hybrid Worker                | Hybrid       |        |        |
 | Azure Traffic Manager Profile                 | Networking   | ATMP   |        |
+| Bastion                                       | Networking   | BAST   |        |
 | Blob                                          | Storage      |        |        |
 | Blueprints                                    | Governance   | BLPR   |        |
 | Container                                     | Serverless   |        |        |
